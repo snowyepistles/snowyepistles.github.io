@@ -8,7 +8,7 @@ permalink: /
 ### Currently on attempt #25 on escaping winter...
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">  <a class="internal-link" href="/booklist">The Book List</a> </span> to get started on your exploration.
+  Take a look at <span style="font-weight: bold">  <a class="internal-link" href="_pages/booklist.md">The Book List</a> </span> to get started on your exploration.
 </p>
 
 
