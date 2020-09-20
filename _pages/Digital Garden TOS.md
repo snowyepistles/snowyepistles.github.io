@@ -2,7 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/6764957/75324412-e3bc2480-5844-11ea-90be-4a26b6a64000.png)
 
-
 ## For Visitors
 
 Welcome! You are now browsing a [Digital Garden](https://joelhooks.com/digital-garden). This is my personal space for [Learning In Public](https://www.swyx.io/writing/learn-in-public). I am a lifelong learner so everything is a Work-In-Progress like me, but I do not let perfectionism get in the way. That means that what you read here is not authoritative or complete, and is not representative of my best work. 
