@@ -5,5 +5,3 @@ date: 2020-09-20
 ---
 
 Hello World! Is anybody out there?
-
-{include %note.html%}
