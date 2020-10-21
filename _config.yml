@@ -1,27 +1,17 @@
-title:               Snowy Epistles
-include:             ['_pages']
+# Site settings
+title: mnmlist
+description: >
+  A elegant minimal design for your Jekyll site.
+  Based on Leo Babutas mnmlist blog.
+permalink: /:title
 
-permalink:           pretty
-relative_permalinks: false
-
-plugins:
-  - jekyll-last-modified-at
-
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-collections:
-  notes:
-    output: true
-    permalink: /:path
+# Build settings
+markdown: kramdown
+future: true
 
 defaults:
-  - scope:
-      path: "**/*"
-    values:
-      layout: "default"
-  - scope:
-      path: "_notes/**/*.md"
-    values:
-      layout: "note"
+    -
+        scope:
+            path: ""
+        values:
+            layout: page
