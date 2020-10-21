@@ -1,4 +1,15 @@
-That's all folks! 
-Find out more about me here: <a class="internal-link" href="/about">Snowy Epistles</a>. 
-On digital gardens a <a class="internal-link" href="/_pages/Digital Garden TOS">Terms of Service</a>.
-Garden template from:  <a class="http" href="https://github.com/maximevaillancourt/digital-garden-jekyll-template">Maxime Vaillancourt</a>.
+<div id="footer">
+    <p>
+        {% for link in site.data.footer %}
+            {% if forloop.index != 1 %}
+             ::
+            {% endif %}
+            {% if link.url contains 'http' %}
+                {% assign domain = '' %}
+            {% else %}
+                {% assign domain = site.github.url %}
+            {% endif %}
+            <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+    </p>
+</div>
