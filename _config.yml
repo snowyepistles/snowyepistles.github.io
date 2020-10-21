@@ -1,8 +1,7 @@
 # Site settings
-title: mnmlist
+title: Snowy Epistles
 description: >
-  A elegant minimal design for your Jekyll site.
-  Based on Leo Babutas mnmlist blog.
+  Currently on attempt #25 on escaping winter...
 permalink: /:title
 
 # Build settings
