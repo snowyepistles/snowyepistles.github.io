@@ -1,11 +1,11 @@
 - title:      about
-  url:        /about
+  url:        /_pages/about
 
 - title:      on digital gardens
-  url:        /Digital Garden TOS
+  url:        /_pages/Digital Garden TOS
 
 - title:      booklist
-  url:        /booklist
+  url:        /_pages/booklist
   
 - title:      theme
-  url:        /theme credit
+  url:        /_pages/theme credit
