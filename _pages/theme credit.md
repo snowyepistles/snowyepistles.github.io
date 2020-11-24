@@ -1,8 +1,9 @@
 ---
-layout: note
+layout: page
 title: theme credit
 permalink: 
 ---
+
 This is a [Jekyll] theme made by [Maxime Vaillancourt]. You can download it [here].
 
 [Jekyll]: https://jekyllrb.com/
