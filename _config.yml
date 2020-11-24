@@ -1,16 +1,32 @@
-# Site settings
-title: Snowy Epistles
-description: >
-  Currently on attempt #25 on escaping winter...
-permalink: /:title
+title:               Snowy Epistles - a digital garden
+include:             ['_pages']
+exclude:             ['_includes/notes_graph.json']
+# You may need to change the base URL depending on your deploy configuration.
+# Specifically, when using GitHub Pages, the baseurl should point to where GitHub
+# Pages deploys your repository (which is usually the repository name).
+baseurl:            /snowyepistles.github.io
 
-# Build settings
-markdown: kramdown
-future: true
+permalink:           pretty
+relative_permalinks: false
+
+plugins:
+  - jekyll-last-modified-at
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+collections:
+  notes:
+    output: true
+    permalink: /:slug
 
 defaults:
-    -
-        scope:
-            path: ""
-        values:
-            layout: page
+  - scope:
+      path: "**/*"
+    values:
+      layout: "default"
+  - scope:
+      path: "_notes/**/*.md"
+    values:
+      layout: "note"
