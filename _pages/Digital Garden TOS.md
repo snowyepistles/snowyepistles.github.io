@@ -1,3 +1,8 @@
+---
+layout: page
+title: Digital Garden TOS
+
+---
 # Digital Garden Terms of Service
 
 ![image](https://user-images.githubusercontent.com/6764957/75324412-e3bc2480-5844-11ea-90be-4a26b6a64000.png)
