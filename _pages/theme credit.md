@@ -1,7 +1,7 @@
 ---
 layout: page
 title: theme credit
-permalink:
+permalink: /theme credit
 ---
 This is a [Jekyll] theme made by [Maxime Vaillancourt]. You can download it [here].
 
