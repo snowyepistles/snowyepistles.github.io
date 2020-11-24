@@ -1,7 +1,7 @@
 ---
 layout: page
 title: booklist
-permalink: /_pages/booklist
+permalink: 
 ---
 
 
