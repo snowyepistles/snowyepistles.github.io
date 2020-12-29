@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 title: Snowy Epistles a digital garden # name of the site
-author: # name of site's author
+author: Snowy Epistles # name of site's author
 email: snowyepistles@gmail.com # email of site's author
-url: https:/snowyepistles.com # root address of the site
-baseurl: "/snowyepistles" # subpath of the site, e.g. "/blog"
+url: https:// www.snowyepistles.com # root address of the site
+baseurl: "/snowyepistles.github.io" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
   A growing digital garden.
 
@@ -12,13 +11,13 @@ permalink: /:slug.html
 favicon: "" # name+extension of favicon (which must be put on the root folder)
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
 
-theme: emote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+theme: remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+  show_description: true # show blog description in home page
 
 sass:
   style: :compressed
