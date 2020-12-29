@@ -25,6 +25,4 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-=======
-remote_theme: "riggraz/no-style-please" 
->>>>>>> f2676cee070d29be5a61bdda917b5102ad29aa47
+
