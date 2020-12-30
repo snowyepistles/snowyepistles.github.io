@@ -4,6 +4,8 @@
 entries:
   - title: info
     entries:
+      - title: about me
+        url: /about
       - title: tumblr
         url: https://snowyepistles.tumblr.com
       - title: "theme by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
