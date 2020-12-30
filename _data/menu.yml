@@ -4,10 +4,9 @@
 entries:
   - title: info
     entries:
-      - title: 
       - title: tumblr
         url: https://snowyepistles.tumblr.com
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: "theme by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
   - title: all posts
     post_list:
@@ -22,17 +21,3 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: booklist-archive.html
-
-  - title: 
-    url: 
-  
-  - title: 
-    entries:
-      - title: 
-        entries:
-          - title: 
-          - title: 
-            url: 
-  - title: 
-    entries:
-      - title: 
